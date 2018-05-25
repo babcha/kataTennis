@@ -17,6 +17,6 @@ public class App
     public static void main( String[] args )
     {
     	
-        System.out.println( "resultat=\n" +game.getResultat());
+        System.out.println( "resultat=\n" +game.getResultat()+"Ciao");
     }
 }
